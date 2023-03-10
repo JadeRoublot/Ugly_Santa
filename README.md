@@ -28,3 +28,16 @@ Lien de la base de donnée : https://console.firebase.google.com/u/1/project/fir
 Les images utiliser pour illustrer les produit son stoker sur un serveur cloud de google drive.
 
 Lien du google drive des images : https://drive.google.com/drive/u/1/folders/1AroxoScMSBuDMkrzvfyLTkjOwHDt2W9p
+
+## Identifiants
+
+Voici les couples identifiant, mot de passe, des deux utilisateurs crée dans le cadre de ce projet.
+
+ - Utilisateur 1 :
+     * Identifiant : 
+     * Mot de passe : 
+     
+ - Utilisateur 2 :
+     * Identifiant : 
+     * Mot de passe : 
+
