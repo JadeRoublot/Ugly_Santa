@@ -1,6 +1,7 @@
 # ugly_santa
 
-A new Flutter project.
+Un nouveau projet Flutter. 
+Projet effectué par Jade ROUBLOT et Henri WACKENHEIM. 
 
 ## Getting Started
 
