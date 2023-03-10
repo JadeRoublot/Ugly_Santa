@@ -1,4 +1,4 @@
-# ugly_santa
+# Ugly Santa
 
 Un nouveau projet Flutter. 
 Projet effectué par Jade ROUBLOT et Henri WACKENHEIM. 
@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Base de donnée
 
+La base de données principale a été faite sur firebase.
 Lien de la base de donnée : https://console.firebase.google.com/u/1/project/fir-uglysanta/overview
