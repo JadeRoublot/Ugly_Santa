@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885866412432",
+    "project_id": "fir-uglysanta",
+    "storage_bucket": "fir-uglysanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885866412432:android:441433f067e5e52d43db15",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885866412432-qthod5mqojhf3t6kigedo02r3orlthgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRbnk54ECez3BMaliQyJr8P-GrBTyCIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885866412432-qthod5mqojhf3t6kigedo02r3orlthgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
