@@ -34,10 +34,10 @@ Lien du google drive des images : https://drive.google.com/drive/u/1/folders/1Ar
 Voici les couples identifiant, mot de passe, des deux utilisateurs crée dans le cadre de ce projet.
 
  - Utilisateur 1 :
-     * Identifiant : 
-     * Mot de passe : 
+     * Identifiant : flutturSudo@Admin.com
+     * Mot de passe : azerty123!
      
  - Utilisateur 2 :
-     * Identifiant : 
-     * Mot de passe : 
+     * Identifiant : fluttersudoclient@clien.com
+     * Mot de passe : motDePasse123
 
