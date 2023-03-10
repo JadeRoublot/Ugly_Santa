@@ -48,3 +48,11 @@ La répartition du travail a été effectuée sur un Trello , créée par Jade R
 Lien du Trello : https://trello.com/b/pLEnOcjv/flutter-project
 
 Cependant il est a noté que Henri WACKENHEIM n'a donné aucune nouvelle depuis le 20 février malgré les messages envoyer. Et n'a participer aucunement au projet actuelle.
+
+## APK Android
+
+...
+
+## Point d'API
+
+...
