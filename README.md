@@ -41,3 +41,8 @@ Voici les couples identifiant, mot de passe, des deux utilisateurs crée dans le
      * Identifiant : fluttersudoclient@clien.com
      * Mot de passe : motDePasse123
 
+## Travaille en binômes
+
+La répartition du travail a été effectuée sur un Trello , créée par Jade ROUBLOT.
+
+Lien du Trello : https://trello.com/b/pLEnOcjv/flutter-project
